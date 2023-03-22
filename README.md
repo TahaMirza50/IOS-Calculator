@@ -1,4 +1,4 @@
-# assignment3
+# IOS Calculator
 
 A new Flutter project.
 
